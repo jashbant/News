@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/us_headline"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Top headlines in the US"/>
+    <item android:id="@+id/bbc_news"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Top headlines from BBC News"/>
+    <item android:id="@+id/germany_news"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Top business headlines from Germany"/>
+    <item android:id="@+id/trump_news"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Top headlines about Trump"/>
+
+</menu>
